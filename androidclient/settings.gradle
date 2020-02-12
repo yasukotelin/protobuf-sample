@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':view_home'
 rootProject.name='android-client'
